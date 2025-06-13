@@ -1,2 +1,2 @@
-# RAG_ChatBot_Langchain_Assistance
-Chatbot for Langchain Guide 
+# Langchain_ChatBot_using RAG
+Chatbot for Langchain Guidance 
